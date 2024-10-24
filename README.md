@@ -1,12 +1,18 @@
 <h1 align="center">Hi 👋, I'm Laura Albentosa Millor</h1>
 <h3 align="center">A programming student and 3D artist.</h3>
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C, React, Html, Css**
+
+- 👨‍💻 All of my projects are available at [https://lauraosallor.wixsite.com/lam-art/projects-7-1](https://lauraosallor.wixsite.com/lam-art/projects-7-1)
 
 - 📫 How to reach me **laura.albentosa.millor@gmail.com**
 
+- 📄 Know about my experiences [https://57fe1ac4-ea4a-4cc5-b1a6-d97ab3a84824.filesusr.com/ugd/649d47_de0102302617449c9c5031c1e07684d0.pdf](https://57fe1ac4-ea4a-4cc5-b1a6-d97ab3a84824.filesusr.com/ugd/649d47_de0102302617449c9c5031c1e07684d0.pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/laura albentosa millor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laura albentosa millor" height="30" width="40" /></a>
+<a href="https://instagram.com/lam_art16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lam_art16" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
