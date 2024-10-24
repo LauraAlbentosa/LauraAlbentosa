@@ -1,16 +1,16 @@
 ![Imagen decorativa de tu perfil]()
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h1 align="center">Hola 👋, Soy Laura</h1>
-<h3 align="center">QUE TE APASIONA</h3>
+<h1 align="center">Hola 👋, Soy Laura Albentosa Millor</h1>
+<h3 align="center">Estudiante de programación y artista 3D</h3>
 
 - 🔭 ACTUALMENTE TRABAJO EN [NOMBRE DEL PROYECTO](URL-DEL-PROYECTO)
 
-- 🌱 ESTOY ESTUDIANDO **INTRODUCE LENGUAJES, FRAMEWORKS**
+- 🌱 ESTOY ESTUDIANDO **C**
 
 - 👨‍💻 TODOS MIS PROYECTOS ESTÁN [MIDOMINIO.COM](MIDOMINIO.COM)
 
-- 📫 PUEDES CONTACTARME EN **laura.albentosa.millor.com**
+- 📫 PUEDES CONTACTARME EN **laura.albentosa.millor@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
