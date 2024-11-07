@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **laura.albentosa.millor@gmail.com**
 
-- 📄 Know about my experiences <a href="https://57fe1ac4-ea4a-4cc5-b1a6-d97ab3a84824.filesusr.com/ugd/649d47_de0102302617449c9c5031c1e07684d0.pdf"/> check my CV <a/>
+- 📄 Know about my experiences <a href="https://57fe1ac4-ea4a-4cc5-b1a6-d97ab3a84824.filesusr.com/ugd/649d47_af4305f59b5a49dc96bf265ee767186f.pdf"/> check my CV <a/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
