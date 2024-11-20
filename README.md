@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Laura Albentosa Millor</h1>
-<img align="center" src="https://drive.google.com/file/d/15i1lsaY8VCAHZOvnG_mLPH_Qvut87Mrc/view?usp=sharing" alt="lam_art16" height="30" width="40" />
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/lalbento" alt="lalbento's 42 stats" /></a>
 
