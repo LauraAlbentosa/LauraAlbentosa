@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Laura Albentosa Millor</h1>
 
-<a align="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/lalbento" alt="lalbento's 42 stats" /></a>
+<div align="center" >
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/lalbento" alt="lalbento's 42 stats" /></a>
+</div>
 
 - 👨‍💻 You can check my portfolio at [https://lauraosallor.wixsite.com/lam-art/projects-7-1](https://lauraosallor.wixsite.com/lam-art/projects-7-1)
 
