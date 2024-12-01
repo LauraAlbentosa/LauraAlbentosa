@@ -2,7 +2,7 @@
 
 <div align="center" >
   <div>
-    <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/lalbento" alt="lalbento's 42 stats" /></a>
+    <a href="https://github.com/oakoudad/badge42"><img width="50%" height="50%" src="https://badge.mediaplus.ma/darkblue/lalbento" alt="lalbento's 42 stats" /></a>
   </div>
 </div>
 
