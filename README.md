@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Laura Albentosa Millor</h1>
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/lalbento" alt="lalbento's 42 stats" /></a>
+<a align="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/lalbento" alt="lalbento's 42 stats" /></a>
 
 - 👨‍💻 You can check my portfolio at [https://lauraosallor.wixsite.com/lam-art/projects-7-1](https://lauraosallor.wixsite.com/lam-art/projects-7-1)
 
@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/laura albentosa millor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laura albentosa millor" height="30" width="40" /></a>
-<a align="center" href="https://instagram.com/lam_art16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lam_art16" height="30" width="40" /></a>
+<a href="https://instagram.com/lam_art16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lam_art16" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
